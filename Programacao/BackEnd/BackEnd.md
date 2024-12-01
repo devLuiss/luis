@@ -1,0 +1,13 @@
+aqui esta todo meu conhecimento backend, vou deixar separado cada principio que na minha opinião é importante eu ter acesso facil
+[[DDD]]
+[[Solid]]
+[[DomainExperts]]
+[[entidades]]
+[[Factories]]
+[[repositorios]]
+[[valueObjects]]
+[[Controllers]]
+[[use-cases]]
+[[domain-events]]
+[[midlewares]]
+Guia basico do [[NestJs]]

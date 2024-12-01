@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "56c0ded03db481f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "4576f69debb4ac23",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b159bd282db641bb",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
+            }
+          },
+          {
+            "id": "06a2db63d4a2b1b3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bd5cf951cdfd768d",
+    "type": "split",
+    "children": [
+      {
+        "id": "7edd5ee43a5470a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "52ffee6c7edc23e3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "0b4057c9e6df1d29",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "19279ea25dbfe9d4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a1edb8a2506a4bf6",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c58241f7d32d2cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a044fa3bc528f157",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "03da06506291cc28",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
+            }
+          },
+          {
+            "id": "71bf7a99a895a9de",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
+            }
+          },
+          {
+            "id": "f5a8d9e770b192de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Luis Henrique.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Luis Henrique"
+            }
+          },
+          {
+            "id": "1341706c2325ad09",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2753f6ebd7b777be",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Sumário"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 932.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "06a2db63d4a2b1b3",
+  "lastOpenFiles": [
+    "Programacao/Programacao.md",
+    "Luis Henrique.md",
+    "Programacao/BackEnd/BackEnd.md",
+    "Programacao/BackEnd/repositorios.md",
+    "Sem título.canvas",
+    "Programacao/FrontEnd/FrontEnd.md",
+    "Programacao/FrontEnd",
+    "Programacao/Sem título.md",
+    "Programacao.md",
+    "Programacao/BackEnd/pipes.md",
+    "Programacao/BackEnd/midlewares.md",
+    "Programacao/BackEnd/Nest/Nestjs.md",
+    "Programacao/BackEnd/DomainExperts.md",
+    "Programacao/BackEnd/Nest",
+    "Nesjts",
+    "Programacao/BackEnd/domain-events.md",
+    "Programacao/BackEnd/use-cases.md",
+    "Programacao/BackEnd/Controllers.md",
+    "Programacao/BackEnd/Factories.md",
+    "Programacao/BackEnd/valueObjects.md",
+    "Programacao/BackEnd/DDD.md",
+    "Programacao/BackEnd/entidades.md",
+    "Programacao/BackEnd/Solid.md",
+    "Programacao/BackEnd/valueObjects",
+    "domain.md",
+    "Programacao/BackEnd",
+    "create a link.md",
+    "Programacao"
+  ]
+}
