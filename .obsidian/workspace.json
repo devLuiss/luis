@@ -16,21 +16,8 @@
               "icon": "lucide-git-fork",
               "title": "Visualização em gráfico"
             }
-          },
-          {
-            "id": "06a2db63d4a2b1b3",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.7"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -192,11 +179,12 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "06a2db63d4a2b1b3",
+  "active": "b159bd282db641bb",
   "lastOpenFiles": [
+    "Programacao/BackEnd/BackEnd.md",
+    "Programacao/BackEnd/ClassesAbstratas.md",
     "Programacao/Programacao.md",
     "Luis Henrique.md",
-    "Programacao/BackEnd/BackEnd.md",
     "Programacao/BackEnd/repositorios.md",
     "Sem título.canvas",
     "Programacao/FrontEnd/FrontEnd.md",
