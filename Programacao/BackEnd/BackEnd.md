@@ -1,4 +1,5 @@
 aqui esta todo meu conhecimento backend, vou deixar separado cada principio que na minha opinião é importante eu ter acesso facil
+
 - [[DDD]]
 - [[Solid]]
 - [[DomainExperts]]
@@ -13,4 +14,5 @@ aqui esta todo meu conhecimento backend, vou deixar separado cada principio que 
 - [[ClassesAbstratas]]
 - [[Aggregate]]
 - [[WatchedList]]
-Guia basico do [[NestJs]]
+- [[subDomains]]
+  Guia basico do [[NestJs]]
